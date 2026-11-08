@@ -1,0 +1,17 @@
+{
+  "name": "effects-hamza",
+  "owner": {
+    "name": "Hamza"
+  },
+  "metadata": {
+    "description": "60 premium video effects for vertical talking-head videos, applied by Claude with one command."
+  },
+  "plugins": [
+    {
+      "name": "effects-hamza",
+      "source": "./plugins/effects-hamza",
+      "description": "Type /fx <effect> with your video and get the effect rendered (Remotion + optional background removal).",
+      "version": "1.0.0"
+    }
+  ]
+}
